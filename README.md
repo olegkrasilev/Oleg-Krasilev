@@ -1,7 +1,6 @@
 ### 💻   My projects:
 
-<details><summary><b> HTML5/SCSS/Javascript </b></summary>
-  
+<details><summary><b> HTML/SCSS/Javascript </b></summary>
   <ul>
      <li><a href="https://olegkrasilev.github.io/landing-page">Click here!</a></li>
   </ul>
