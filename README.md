@@ -3,7 +3,7 @@
 <details><summary><b> HTML5/SCSS/Javascript </b></summary>
   
   <ul>
-     <li><a href="https://olegkrasilev.github.io/landing-page"></a></li>
+     <li><a href="https://olegkrasilev.github.io/landing-page">Click here!</a></li>
   </ul>
   
 </details>  
