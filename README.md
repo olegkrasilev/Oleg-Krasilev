@@ -1,3 +1,12 @@
+### 💻   My projects:
+
+<details><summary><b> HTML5/SCSS/Javascript </b></summary>
+  
+  <ul>
+     <li><a href="https://olegkrasilev.github.io/landing-page"></a></li>
+  </ul>
+  
+</details>  
 
 ### 📈 Codewars:
 <img src='https://www.codewars.com/users/olegkrasilev/badges/large'>
