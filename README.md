@@ -10,7 +10,12 @@
   <ul>
      <li><a href="https://github.com/olegkrasilev/iTechArt-studentsLab-express">Click here!</a></li>
   </ul>
-  
+</details>  
+
+<details><summary><b>Nest.js/TypeORM/PostreSQL/Typescript/Node.js</b></summary>
+  <ul>
+     <li><a href="https://github.com/olegkrasilev/iTechArt-studentsLab-nestjs">Click here!</a></li>
+  </ul>
 </details>  
 
 ### 💻 Tech Stack:
