@@ -6,6 +6,12 @@
   </ul>
 </details>
 
+<details><summary><b>React/Redux-saga/Typescript</b></summary>
+  <ul>
+     <li><a href="https://github.com/olegkrasilev/iTechArt-studentsLab-react">Click here!</a></li>
+  </ul>
+</details>  
+
 <details><summary><b>Express.js/TypeORM/PostreSQL/Typescript/Node.js</b></summary>
   <ul>
      <li><a href="https://github.com/olegkrasilev/iTechArt-studentsLab-express">Click here!</a></li>
