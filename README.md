@@ -6,9 +6,9 @@
   </ul>
 </details>
 
-<details><summary><b>React/Redux-saga/Typescript</b></summary>
+<details><summary><b>React/Redux/Typescript</b></summary>
   <ul>
-     <li><a href="https://github.com/olegkrasilev/iTechArt-studentsLab-react">Click here!</a></li>
+     <li><a href="https://github.com/olegkrasilev/react-todo-app">Click here!</a></li>
   </ul>
 </details>  
 
