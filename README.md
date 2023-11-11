@@ -12,18 +12,6 @@
   </ul>
 </details>  
 
-<details><summary><b>Express.js/TypeORM/PostreSQL/Typescript/Node.js</b></summary>
-  <ul>
-     <li><a href="https://github.com/olegkrasilev/iTechArt-studentsLab-express">Click here!</a></li>
-  </ul>
-</details>  
-
-<details><summary><b>Nest.js/TypeORM/PostreSQL/Typescript/Node.js</b></summary>
-  <ul>
-     <li><a href="https://github.com/olegkrasilev/iTechArt-studentsLab-nestjs">Click here!</a></li>
-  </ul>
-</details>  
-
 ### 💻 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
