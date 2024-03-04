@@ -1,14 +1,26 @@
 ### 💻   My projects:
 
-<details><summary><b> HTML/SCSS/Javascript </b></summary>
+<details><summary><b>Landing page</b></summary>
   <ul>
-     <li><a href="https://olegkrasilev.github.io/landing-page-1">Click here!</a></li>
+     <li><a href="https://olegkrasilev.github.io/landing-page">Click here!</a></li>
   </ul>
 </details>
 
-<details><summary><b>React/Redux/Typescript</b></summary>
+<details><summary><b>Todo App</b></summary>
   <ul>
      <li><a href="https://github.com/olegkrasilev/react-todo-app">Click here!</a></li>
+  </ul>
+</details>  
+
+<details><summary><b>Blog</b></summary>
+  <ul>
+     <li><a href="https://github.com/olegkrasilev/react-blog">Click here!</a></li>
+  </ul>
+</details>  
+
+<details><summary><b>Blog-api-express/b></summary>
+  <ul>
+     <li><a href="https://github.com/olegkrasilev/blog-api-express">Click here!</a></li>
   </ul>
 </details>  
 
