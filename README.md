@@ -6,13 +6,13 @@
   </ul>
 </details>
 
-<details><summary><b>Todo App</b></summary>
+<details><summary><b>Todo App React</b></summary>
   <ul>
      <li><a href="https://github.com/olegkrasilev/react-todo-app">Click here!</a></li>
   </ul>
 </details>  
 
-<details><summary><b>Blog</b></summary>
+<details><summary><b>Blog React</b></summary>
   <ul>
      <li><a href="https://github.com/olegkrasilev/react-blog">Click here!</a></li>
   </ul>
