@@ -18,9 +18,15 @@
   </ul>
 </details>  
 
-<details><summary><b>Blog-api-express/b></summary>
+<details><summary><b>Blog-api-express</b></summary>
   <ul>
      <li><a href="https://github.com/olegkrasilev/blog-api-express">Click here!</a></li>
+  </ul>
+</details>  
+
+<details><summary><b>Blog-api-nestjs</b></summary>
+  <ul>
+     <li><a href="https://github.com/olegkrasilev/blog-api-nestjs">Click here!</a></li>
   </ul>
 </details>  
 
